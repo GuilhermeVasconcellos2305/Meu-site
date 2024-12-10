@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+.container{
+    margin: o auto;
+    width: 80%;
+    padding: 20px;
+    background-color: darkgrey;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+}
+.contato{
+    margin-top: 30px;
+}
+.contato p{
+    margin-bottom: 10px;
+}
+.formulario{
+    margin: 30px;
+}
+.formulario textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 150px;
+}
+.formulario input[type="submit"]{
+    background-color: darkcyan;
+    color: floralwhite;
+    border: none;
+    padding: 10px 20px;
+}

@@ -1,0 +1,55 @@
+body{
+    background-color: grey; /*Altera a cor do fundo*/
+}
+h1{
+font-family: sans-serif;
+/*altera o tipo de fonte*/
+font-size: 40px;
+/*altera o tamanho do texto*/
+text-align: center;
+/*centraliza o texto*/
+color: black; /*cor da fonte*/
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.imagemPrincipal{
+    width: 600px; /*altera a largura*/
+    height: 300px; /*altera a altura*/
+    
+}
+.imagemLuz{
+    width: 500px;
+    height: 300px;
+    
+}
+.geral{
+    width: 900px;
+    margin: auto;
+    background-color: darkslategray;
+    padding: 10px;
+    text-align: center;
+}
+header{
+    background-color: azure;
+    padding: 5px;
+}
+nav{
+    background-color: azure;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+a:link{
+    color: darkslategrey;
+}
+a:visited{
+    color: blue;
+}
